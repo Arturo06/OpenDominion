@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang= "en">
+<head>
+<title>Noviembre 2018</title>
+</head>
+
+<!-- Latest compiled and minified Bootstrap CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+
+<meta charset="UFT-8">
+<body style="background-color:rgb(71, 0, 85);">
+<!__Menu de navegación del sitio-->
+<h1><font color="orange">Noviembre</h1>
+
+</style> <div class="container-fluid">
+</div>
+		
+<div class="card-columns">
+
+<!-- Card 1 -->
+<div class="card">
+<div class="card-header"><h2>1 DE NOVIEMBRE</h2></div>
+<div class="card-body">
+<p class="card-text"><h3>DIA DE TODOS LOS SANTOS</h3>
+                     En este dia la Iglesia celebra fiesta solemne por todos aquellos difuntos que, <br>
+                     habiendo superado el purgatorio, se han santificado totalmente, <br>
+                     han obtenido la vision beatifica y gozan de la vida eterna en la presencia de Dios. <br>
+                     Por eso es el día de todos los santos.</p>
+</div>
+
+<!-- Card 2 -->
+<div class="card">
+<div class="card-header"><h2>2 DE NOVIEMBRE</h2></div>
+<div class="card-body">
+
+<p class="card-text"><h3>DIA DE MUERTOS</h3>
+    Es una celebracion tradicional mexicana que honra a los muertos. <br>
+    En el 2008 la Unesco declaro la festividad como Patrimonio Cultural Inmaterial de la Humanidad de Mexico.</p>
+</div>
+
+<!-- Card 3 -->
+<div class="card">
+<div class="card-header"><h2>12 DE NOVIEMBRE</h2></div>
+<div class="card-body">
+        <p class="card-text"><h3>DIA DEL CARTERO</h3></p>
+</div>
+</div>
+
+<!-- Card 4 -->
+<div class="card">
+        <div class="card-header"><h2>14 DE NOVIEMBRE</h2></div>
+        <div class="card-body">
+                <p class="card-text"><h3>DIA DE LA DIABETES</h3></p>
+        </div>
+        </div>
+
+<!-- Card 5 -->
+<div class="card">
+        <div class="card-header"><h2>- 20 DE NOVIEMBRE</h2></div>
+        <div class="card-body">
+        <p class="card-text"><h3>DIA DE LA REVOLUCION MEXICANA</h3>
+            Fue un conflicto armado que se inicio en Mexico el 20 de noviembre de 1910. <br>
+            Los antecedentes del conflicto se remontan a la situacion de Mexico bajo la dictadura conocida como el porfiriato. </p>
+        </div>
+
+<!-- Card 6 -->
+<div class="card">
+        <div class="card-header"><h2>23 DE NOVIEMBRE</h2></div>
+        <div class="card-body">
+        <p class="card-text"><h3>DIA DE LA ARMADA DE MEXICO</h3>
+            Fue creada desde la consumacion de la independencia, el 4 de octubre de 1821, <br>
+            aunque fue hasta en el siglo XX que adquirio una mayor importancia y atencion por parte de los gobiernos.</p>
+        </div>
+        
+
+</div>
+
+</div>
+
+
+</div>
+</div>
+</div>
+
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+
+<!-- Popper -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+
+<!-- Latest compiled and minified Bootstrap JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+<!-- Initialize Bootstrap functionality -->
+<script>
+// Initialize tooltip component
+$(function () {
+  $('[data-toggle="tooltip"]').tooltip()
+})
+
+// Initialize popover component
+$(function () {
+  $('[data-toggle="popover"]').popover()
+})
+</script>
+
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+<style>
+body {
+padding-top: 1em;
+}	
+</style> <div class="container-fluid">
+    <h3>Entretenimiento</h3>
+<table class="table">
+<thead>
+<tr>
+<th>Chistes</th>
+<th>Adivinanzas</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<th>...</th>
+<th>1.R:Porque se lo sonaron.<br>
+    2.R: 1 porque despues de ese ya no estas en ayunas.<br>
+    3.R:A la ultima.</th>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td>1.-A que te dedicas? -A mover vacas.<br>
+       -Ahh eres ganadero -No, soy maestro de Zumba</td>
+<td>1.- Porque lloro el moquito?</td>
+</tr>
+<tr>
+<td>2.-!Profe, profe, me han robado¡<br>
+      -Y que te han quitado?<br>
+     - La tarea.</td>
+<td>2.-Cuantos huevos te puedes comer en ayunas?</td>
+</tr>
+<tr>
+<td>3.-Papa, Que hace una vaca en la calle?<br>
+    -No se<br>
+    -Vacaminando. 
+</td>
+<td>A las cuantas vueltas se hecha un burro?</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+		
+<!-- jQuery library -->
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+
+<!-- Popper -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+
+<!-- Latest compiled and minified Bootstrap JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+<!-- Initialize Bootstrap functionality -->
+<script>
+// Initialize tooltip component
+$(function () {
+  $('[data-toggle="tooltip"]').tooltip()
+})
+
+// Initialize popover component
+$(function () {
+  $('[data-toggle="popover"]').popover()
+})
+</script>
+<h3>Deportes</h3>
+<p>OFICIAL: Mexico se enfrentara a Argentina en Noviembre <br>
+    La Seleccion Mexicana tendra dos duelos amistosos ante su similar de Argentina en la Fecha FIFA <br> 
+    de noviembre, asi lo ha anunciado de forma oficial la Federacion Mexicana de Futbol, <br>
+    esto a traves de la nueva vocera Beatriz Ramos, quien logro llegar a un acuerdo con la <br> 
+    Asociacion de Futbol Argentino para que el equipo, todavia de Ricardo Tuca Ferretti <br> 
+    juegue en dos ocasiones en suelo sudamericano. Los partidos se llevaran a cabo los dias 17 y 20 de noviembre en Argentina, <br> 
+    sin embargo, las sedes no se han confirmado, a pesar que se ha manejado la Bombonera <br> 
+    o el Monumental como uno de los inmuebles en donde se podria llevar al menos uno de los duelos. La FMF  <br>
+    resalta que los dirigidos por Lionel Sebastian Scaloni ocupan actualmente <br>
+     la posicion numero 11 del ranking de la FIFA.<br>
+
+
+Canelo Alvarez y Alegna Gonzalez recibiran el PND el 22 de noviembre <br>
+El campeon mexicano Saul Canelo Alvarez planea interrumpir sus entrenamientos en California<br>  
+para acudir el proximo jueves 22 de noviembre en Palacio Nacional para recibir el <br> 
+reconocimiento del Premio Nacional de Deportes 2018, donde tambien sera reconocida la <br> 
+marchista juvenil Alegna Gonzalez y el resto de los ganadores. El peleador mexicano de 28 <br> 
+anos y marca de 50-1-2 y 34 fueras de combate, se alista en San Diego, California, para <br> 
+destronar al britanico Rocky Fielding como monarca Supermediano de la Asociacion Mundial de <br> 
+Boxeo, en busca de alcanzar el tricampeonato del mundo, algo que solo han alcanzado <br> 
+personajes como Julio Cesar Chavez, Juan Manuel Marquez, Erik Morales y Marco Antonio Barrera. <br>
+Canelo Alvarez fue seleccionado como ganador del Premio Nacional de Deportes 2018 <br> 
+en la categoria de deportista profesional, por lo que solo recibira el reconocimiento y no <br> 
+recibira el premio economico que el resto de los ganadores tendra en la ceremonia.
+
+</p>
+
+
+
+</font>
+</body>
+<img src="Sabias Que.jpeg" width="450" height="250">  
+<address><font color="orange">Creado el 20 de noviembre de 2018 <br>
+Alumnos Primer Cuatrimestre </font></address>
+</html>
